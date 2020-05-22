@@ -1,0 +1,29 @@
+{
+  "name": "courserabootstrapassignment",
+  "version": "1.0.0",
+  "description": "bootstrap assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanyaKasaudhan/CourseraBootstrapAssignment.git"
+  },
+  "author": "Sanya Kasaudhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanyaKasaudhan/CourseraBootstrapAssignment/issues"
+  },
+  "homepage": "https://github.com/SanyaKasaudhan/CourseraBootstrapAssignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
